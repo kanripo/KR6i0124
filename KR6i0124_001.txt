@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:27.920069
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:38
 #+TITLE: 阿難七夢經
 #+PROPERTY: CBETA_ID T14n0494
 #+PROPERTY: ID KR6i0124
